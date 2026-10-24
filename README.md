@@ -99,5 +99,6 @@ npm run build
 > - 使用 Pinia 管理用户/权限/应用状态，封装 Axios 请求拦截器统一处理 Token 和错误
 > - 实现 Tab 标签页导航 + keep-alive 组件缓存，优化多页面切换体验
 > - 使用 Vite 构建优化，路由懒加载 + 手动 chunk 分包，首屏加载体积减少约 40%
-> - 
+<img width="2868" height="1474" alt="屏幕截图 2026-10-24 084426" src="https://github.com/user-attachments/assets/09d9b37e-4879-46ec-9806-d13b64d8f28a" />
+
 
